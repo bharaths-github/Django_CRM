@@ -24,19 +24,19 @@ To run the Django Record Management System locally, follow these steps:
 
    cd django-record-management
 
-   3.Install the required dependencies:
+ 3.Install the required dependencies:
    
       pip install -r requirements.txt
    
-   4.Apply migrations:
+4.Apply migrations:
    
       python manage.py migrate
    
-   5.Start the development server:
+5.Start the development server:
    
       python manage.py runserver
    
-   6.Open a web browser and go to http://127.0.0.1:8000 to access the application.
+6.Open a web browser and go to http://127.0.0.1:8000 to access the application.
 
 Usage
 
