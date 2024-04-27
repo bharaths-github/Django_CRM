@@ -22,7 +22,7 @@ To run the Django Record Management System locally, follow these steps:
    git clone https://github.com/yourusername/django-record-management.git
 2. Navigate to the project directory:
 
-   cd django-record-management
+      cd django-record-management
 
  3.Install the required dependencies:
    
